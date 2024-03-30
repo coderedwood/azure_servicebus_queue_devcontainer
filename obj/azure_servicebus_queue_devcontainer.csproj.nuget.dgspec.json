@@ -41,6 +41,10 @@
             "Azure.Messaging.ServiceBus": {
               "target": "Package",
               "version": "[7.17.4, )"
+            },
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
